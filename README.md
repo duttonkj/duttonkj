@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am UI Product engineer currently helpings customers search and deliver billions of rows of price transparency data at Serif Health.
+
+[https://serifhealth.com](Serif Health)
+
 <!--
 **duttonkj/duttonkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
